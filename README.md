@@ -12,7 +12,6 @@
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twotechside&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=twotechside&theme=default)](https://git.io/streak-stats)
 
 - - -
 ## 🔗 Link
