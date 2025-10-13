@@ -11,7 +11,8 @@
 - - - 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twotechside&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=twotechside&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twotechside&show_icons=true&theme=tokyonight)
 
 - - -
 ## 🔗 Link
