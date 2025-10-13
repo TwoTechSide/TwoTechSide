@@ -7,6 +7,19 @@
 ## 📚 Algorithm
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=2techside)](https://solved.ac/profile/2techside)
+<details>
+  <summary>학습중인 알고리즘 - 펼치기</summary>
+
+  - 자료 구조 (Data Structures)
+  - 다이나믹 프로그래밍 (Dynamic Programming, DP)
+  - 그래프 탐색 (Graph Traversal)
+  - 누적 합 (Prefix Sum)
+  - 깊이 우선 탐색 (Depth-first Search)
+  - 너비 우선 탐색 (Breadth-first Search)
+  - 백트래킹 (Backtracking)
+  - 정렬 (Sorting)
+  - 최장 공통 수열 (Longest Common Subsequence)
+</details>
 
 - - - 
 ## 📊 GitHub Stats
