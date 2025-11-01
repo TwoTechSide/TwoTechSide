@@ -19,6 +19,7 @@
   - 백트래킹 (Backtracking)
   - 정렬 (Sorting)
   - 최장 공통 수열 (Longest Common Subsequence)
+  - 비트마스킹 (Bitmasking)
 </details>
 
 - - - 
