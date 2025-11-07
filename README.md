@@ -6,6 +6,7 @@
 - - -
 ## 📚 Algorithm
 
+[![mazandi](http://mazandi.herokuapp.com/api?handle=2techside&theme=warm)](https://solved.ac/profile/2techside)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=2techside)](https://solved.ac/profile/2techside)
 <details>
   <summary>학습중인 알고리즘 - 펼치기</summary>
