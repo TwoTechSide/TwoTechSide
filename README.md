@@ -21,11 +21,13 @@
   - 정렬 (Sorting)
   - 최장 공통 수열 (Longest Common Subsequence)
   - 비트마스킹 (Bitmasking)
+  - 두 포인터 (Two-Pointer)
 </details>
 
 - - - 
 ## 📊 GitHub Stats
 
+![Github trophy](https://github-profile-trophy.vercel.app/?username=twotechside&theme=tokyonight&column=6&margin-w=15&margin-h=15)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=twotechside&theme=tokyonight&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twotechside&show_icons=true&theme=tokyonight)
 
