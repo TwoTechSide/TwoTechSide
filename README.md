@@ -32,6 +32,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twotechside&show_icons=true&theme=tokyonight)
 
 - - -
+## 📈 Activity Graph
+
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=twotechside&theme=react-dark)](https://github.com/twotechside/github-readme-activity-graph)
+
+- - -
 ## 🔗 Link
 - Solved.ac : https://solved.ac/profile/2techside
 - blog : https://twotechside.github.io/
